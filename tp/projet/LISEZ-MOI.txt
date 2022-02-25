@@ -1,0 +1,14 @@
+Auteurs:    Hisham Boulifa    (2085232)
+            Nicolas Deloumeau (2086143)
+            Laurent Langlois  (2075635)
+            Thomas Duperron   (2016459)
+
+Dans le dossier /librairie se trouvent les différents fichiers .h et .cpp ainsi 
+qu'un Makefile (afin de pouvoir compiler la librairie).
+Ceux-ci permettent le bon fonctionnement du robot avec les fonctionnalités désirées.
+
+Dans le dossier /projet se trouvent les fichiers nécessaires au projet final.
+Le fichier main.cpp permet l'exécution du programme (ainsi que des fichiers 
+ou libraires inclus dans le fichier).
+Les fichiers claviers .cpp et .h sont utilisés de manière spécifique (pour notre cas), 
+c'est-à-dire qu'ils ne sont pas réutilisables dans un autre projet.

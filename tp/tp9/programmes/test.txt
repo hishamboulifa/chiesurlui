@@ -1,0 +1,40 @@
+mon 248; // n'est pas exécuté
+dbt;
+
+// animation matrice
+dbc 3; // faire 4 fois
+mon 128;
+att 10;
+mon 64;
+att 10;
+mon 32;
+att 10;
+mon 16;
+att 10;
+fbc;
+mof;
+
+//moteurs
+att 20;
+dal 200;
+mav 127;
+att 20;
+dal 50;
+mre 127;
+att 20;
+dal 200;
+mav 127;
+att 20;
+det;
+mar;
+att 40;
+trd;
+trd;
+trd;
+trd;
+trg;
+trg;
+trg;
+trg;
+att 80;
+fin;
